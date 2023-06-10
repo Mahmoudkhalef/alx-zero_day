@@ -1,2 +1,1 @@
-readme
-update
+ update_script
